@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "AhorraWatt",
+    "slug": "ahorrawatt",
+    "version": "0.1.0",
+    "scheme": "ahorrawatt",
+    "plugins": ["expo-router"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
